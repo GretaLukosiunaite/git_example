@@ -19,3 +19,4 @@
 
 ## ----
 - - "git status" - See status whant was updated
+- - "git log" - to See commits what changed what
