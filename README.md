@@ -24,4 +24,5 @@
 - "git branch" - to see branch all branch
 - "git checkout -b (name of new branch)" - creating new branch and transfer to it
 - "git checkout (branch name)" - transfer to branch you named
-- "git merge (branch name)" - mergesnamed branch with main branch
+- "git merge (branch name)" - merges named branch with main branch
+- "git branch -d (branch name)" - delete branche (using after merge)
