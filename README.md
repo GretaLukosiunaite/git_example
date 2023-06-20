@@ -23,3 +23,4 @@
 - "git log" - to see commits what changed what
 - "git branch" - to see branch all branch
 - "git checkout -b (name of new branch)" - creating new branch and transfer to it
+- "git checkout (branch name)" - transfer to branch you named
